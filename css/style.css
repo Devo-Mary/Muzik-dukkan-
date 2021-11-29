@@ -1,1 +1,38 @@
-/* aaaa */
+html{
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    text-align: center;
+}
+nav h1{
+    font-size: xx-large;
+    color: rgb(187, 11, 11);
+}
+.menu li{
+    display: inline-block;
+    margin: 0px 25px 0 -3px;
+}
+/* INDEX PAGE START */
+.index-main h2{
+    color:rgb(109, 3, 109);
+}
+.index-main  {
+    text-align: center;
+}
+.index-main h3{
+    color: rgb(134, 134, 3);
+}
+.index-main > ul > li{
+    list-style-position: inside;
+}
+/* INDEX PAGE END */
+
+/* ABOUT PAGE START */
+.about-main h2{
+    text-align: center;
+    color:rgb(109, 3, 109);
+}
+.about-main h4{
+    color: rgb(134, 134, 3);
+}
+/* ABOUT PAGE END */
